@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         var awesome = ""
 
         var gameofthrone = "Game of throne"
+
+        var lalland = ""
     }
 }
